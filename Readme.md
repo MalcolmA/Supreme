@@ -14,6 +14,5 @@ Fully automated Bot which buys clothes at supremenewyork.com
 ## ToDo
 1. **Improvements**: Improve article search algorithm to make it faster.
 2. **Improvements**: Specify more concrete exception messages. (e. g. "cartjacked", "payment data incorrect")
-3. **Bugfixes**: Fix bugs that may occur with American Express payment.
-4. **New function**: Implement PayPal payment.
-5. **New function**: Implement some kind of startover routine in case the article is sold out or any other error occurs during checkout.
+3. **New function**: Implement PayPal payment.
+4. **New function**: Implement some kind of startover routine in case the article is sold out or any other error occurs during checkout.
