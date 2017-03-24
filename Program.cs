@@ -14,7 +14,7 @@ namespace Supreme
 
 	public sealed class Creditcards
 	{
-		public static String VISA = "visa", MasterCard = "mastercard", AmericanExpress = "amex";
+		public static String VISA = "visa", MasterCard = "master", AmericanExpress = "american_express";
 	}
 
 	public struct cartInfo
