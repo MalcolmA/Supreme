@@ -1,4 +1,6 @@
-**Bot does not work at the moment, because Supreme implemented Google NoCaptcha ReCaptcha**
+**Supreme implemented Google NoCaptcha ReCaptcha.**
+-
+**Bot does still work at the moment, because Captcha is not implemented in No-JS-Version of Supreme yet.**
 
 # Supreme Auto Checkout Bot 
 Fully automated Bot which buys clothes at supremenewyork.com
