@@ -1,3 +1,5 @@
+This is an old version (deprecated as of 03.04.2017)
+
 **Supreme implemented Google NoCaptcha ReCaptcha.**
 -
 **Bot does still work at the moment, because Captcha is not implemented in No-JS-Version of Supreme yet.**
