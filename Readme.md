@@ -1,3 +1,5 @@
+**Bot does not work at the moment, because Supreme implemented Google NoCaptcha ReCaptcha**
+
 # Supreme Auto Checkout Bot 
 Fully automated Bot which buys clothes at supremenewyork.com
 
