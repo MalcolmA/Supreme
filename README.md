@@ -9,8 +9,10 @@ Buys clothes at Supreme (supremenewyork.com) automatically.
 
 ## Notes
 - Gets around Google NoCaptcha ReCaptcha (for now).
-(as of now g-recaptcha-response is not validated serverside when JS is turned off)
 - Press Order only when new items are already live (11:00:01 LDN Time).
 - Product site must contain all given keywords for the product to be found.
 - You must not use special characters (e.g. ä, ö, ü).
 - `Categories.All` will be the slowest, `Categories.New` the fastest.
+
+## Important
+- As of now g-recaptcha-response is not validated serverside when JS is turned off, maybe because they havent implemented a fallback method for browsers that do not support javascript yet. They might start validating this token at any time and this bot becomes functionless immediately.
